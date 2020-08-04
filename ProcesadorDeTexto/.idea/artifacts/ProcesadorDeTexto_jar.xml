@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProcesadorDeTexto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProcesadorDeTexto_jar</output-path>
+    <root id="archive" name="ProcesadorDeTexto.jar">
+      <element id="module-output" name="ProcesadorDeTexto" />
+    </root>
+  </artifact>
+</component>
